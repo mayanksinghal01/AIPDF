@@ -1,0 +1,3413 @@
+{
+  "Teethment": {
+    "children": {
+      "Endodontics": {
+        "children": {
+          "Endodontics": {
+            "children": {
+              "Bleaching Products": {
+                "children": {
+                  "Implant Motors": {
+                    "children": {
+                      "Physiodispensers": {
+                        "children": {}
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "Equipments": {
+        "children": {
+          "Endodontics": {
+            "children": {
+              "Cavity Access": {
+                "children": {
+                  "Periodontal": {
+                    "children": {
+                      "Hygienic": {
+                        "children": {}
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "General Dentistry": {
+        "children": {
+          "Endodontics": {
+            "children": {
+              "Cleaning and Shaping": {
+                "children": {
+                  "Dental": {
+                    "children": {
+                      "Die Stone": {
+                        "children": {}
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "Implantology": {
+        "children": {
+          "Endodontics": {
+            "children": {
+              "Endo Accessories": {
+                "children": {
+                  "Silicone Retainers": {
+                    "children": {
+                      "Trainers": {
+                        "children": {}
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "Instruments": {
+        "children": {
+          "Endodontics": {
+            "children": {
+              "Endo Diagnosis": {
+                "children": {
+                  "Analgesics": {
+                    "children": {
+                      "Antipyretics & Anti Inflammatory": {
+                        "children": {}
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "Laboratory": {
+        "children": {
+          "Endodontics": {
+            "children": {
+              "Intracanal Medicaments": {
+                "children": {
+                  "Nasal Drops": {
+                    "children": {
+                      "Spray": {
+                        "children": {}
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "Medical Supplies": {
+        "children": {
+          "Endodontics": {
+            "children": {
+              "Obturation": {
+                "children": {
+                  "Proton pump inhibitors": {
+                    "children": {
+                      "Dopamine antagonists": {
+                        "children": {}
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "New Clinic setup Kits": {
+        "children": {
+          "Endodontics": {
+            "children": {
+              "Post & Core": {
+                "children": {
+                  "Sterilization Cassette": {
+                    "children": {
+                      "Box": {
+                        "children": {}
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "Offer Zone": {
+        "children": {
+          "Endodontics": {
+            "children": {
+              "Resin Gel": {
+                "children": {
+                  "Bleaching Products": {
+                    "children": {
+                      "In Office Bleaching": {
+                        "children": {}
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "Oral Surgery": {
+        "children": {
+          "Endodontics": {
+            "children": {
+              "Re treatment": {
+                "children": {
+                  "Cavity Access": {
+                    "children": {
+                      "Cavity Access Burs & Sets": {
+                        "children": {}
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "Orthodontics": {
+        "children": {
+          "Endodontics": {
+            "children": {
+              "Rubber Dam Kits & Accessories": {
+                "children": {
+                  "Cleaning and Shaping": {
+                    "children": {
+                      "K Files": {
+                        "children": {}
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "Paedodontics": {
+        "children": {
+          "Endodontics": {
+            "children": {
+              "Temporary Filling Material": {
+                "children": {
+                  "Endo Accessories": {
+                    "children": {
+                      "File Cleaner": {
+                        "children": {}
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "Patient Education Models": {
+        "children": {
+          "Equipments": {
+            "children": {
+              "Amalgamator": {
+                "children": {
+                  "Intracanal Medicaments": {
+                    "children": {
+                      "Ca OH Based Medicaments": {
+                        "children": {}
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "Periodontics": {
+        "children": {
+          "Equipments": {
+            "children": {
+              "Apex Locators": {
+                "children": {
+                  "Obturation": {
+                    "children": {
+                      "Gutta Percha Points": {
+                        "children": {}
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "Pharmacy": {
+        "children": {
+          "Equipments": {
+            "children": {
+              "Autoclaves": {
+                "children": {
+                  "Post & Core": {
+                    "children": {
+                      "Posts & Drills": {
+                        "children": {}
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "Prosthodontics": {
+        "children": {
+          "Equipments": {
+            "children": {
+              "Automixing guns and units": {
+                "children": {
+                  "Re treatment": {
+                    "children": {
+                      "Gutta Percha Solvents": {
+                        "children": {}
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "Restorative": {
+        "children": {
+          "Equipments": {
+            "children": {
+              "Bleaching Lights": {
+                "children": {
+                  "Autoclaves": {
+                    "children": {
+                      "Front Loading Autoclaves": {
+                        "children": {}
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "Spare Parts": {
+        "children": {
+          "Equipments": {
+            "children": {
+              "Boilers": {
+                "children": {
+                  "Dental Chairs": {
+                    "children": {
+                      "Semi Electric Dental Chair": {
+                        "children": {}
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "Sterilization": {
+        "children": {
+          "Equipments": {
+            "children": {
+              "CBCT Machines": {
+                "children": {
+                  "Dental Handpieces": {
+                    "children": {
+                      "Airotor": {
+                        "children": {}
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "Student Section": {
+        "children": {
+          "Equipments": {
+            "children": {
+              "Composite Warmer": {
+                "children": {
+                  "Suction Units": {
+                    "children": {
+                      "High Vacuum Suction Units": {
+                        "children": {}
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Equipments": {
+    "children": {
+      "Dental Air Motor": {
+        "children": {
+          "Ultrasonic Cleaners": {
+            "children": {
+              "Fiber Optic Scalers": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Dental Air Polisher": {
+        "children": {
+          "X Ray Machines": {
+            "children": {
+              "Portable X Ray Machine": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Dental Alloy Grinders": {
+        "children": {
+          "Dental x ray": {
+            "children": {
+              "X Ray Films": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Dental Chair Accessories": {
+        "children": {
+          "Personal protection": {
+            "children": {
+              "PPE Kits": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Dental Chairs": {
+        "children": {
+          "Tooth Care": {
+            "children": {
+              "Tooth Brushes": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Dental Compressors": {
+        "children": {
+          "Implant Instruments": {
+            "children": {
+              "Osteotomes": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Dental Handpieces": {
+        "children": {
+          "Diagnostic": {
+            "children": {
+              "Probes": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Dental Laser": {
+        "children": {
+          "Endodontic": {
+            "children": {
+              "RCT pluggers": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Dental Loupes": {
+        "children": {
+          "Extraction Instruments": {
+            "children": {
+              "Extraction Forceps": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Dental Sandblaster": {
+        "children": {
+          "Filling Instruments": {
+            "children": {
+              "Composite Instruments": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Dental Trolley": {
+        "children": {
+          "Orthodontic Instruments": {
+            "children": {
+              "Adams Plier": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Electrocautery": {
+        "children": {
+          "Prosthodontic": {
+            "children": {
+              "Wax Carvers": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Endo Motor": {
+        "children": {
+          "Surgical Instruments": {
+            "children": {
+              "Scissors": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Glass Bead Sterilizer": {
+        "children": {
+          "Ceramics": {
+            "children": {
+              "Zirconia Blanks": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Gutta Percha Cutter & Accessories": {
+        "children": {
+          "Surgical Dressings": {
+            "children": {
+              "Dry Socket Dressings": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Imaging Plate Scanner": {
+        "children": {
+          "Sutures & Needles": {
+            "children": {
+              "Absorbable sutures": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Implant Motors": {
+        "children": {
+          "Adhesives": {
+            "children": {
+              "Etchant": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Intraoral Camera": {
+        "children": {
+          "Bands": {
+            "children": {
+              "Band Material": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Intraoral Scanner": {
+        "children": {
+          "Bondable Accessories": {
+            "children": {
+              "Bondable Buttons": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Lab Equipments": {
+        "children": {
+          "Brackets": {
+            "children": {
+              "Ceramic": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "LED Light Cure Unit": {
+        "children": {
+          "Buccal Tubes": {
+            "children": {
+              "Bondable": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Light Cure Unit Accessories": {
+        "children": {
+          "Educational Material": {
+            "children": {
+              "BOOKS": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Micromotors": {
+        "children": {
+          "Elastomerics": {
+            "children": {
+              "E Chains": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Model Trimmers": {
+        "children": {
+          "Laboratory Products": {
+            "children": {
+              "Solder Torch": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Needle Destroyers": {
+        "children": {
+          "Mini Screws": {
+            "children": {
+              "Tomas Anchorage System": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Oral Anaesthesia Injectors": {
+        "children": {
+          "Fluorides": {
+            "children": {
+              "Fluoride Trays": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Pulp Testers": {
+        "children": {
+          "Pedo Crowns": {
+            "children": {
+              "Strip Crowns": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Rvg Sensors": {
+        "children": {
+          "Local Anesthesia": {
+            "children": {
+              "Local Anaesthetic Spray": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Sealing Machines": {
+        "children": {
+          "Bite Registration": {
+            "children": {
+              "Articulating Paper": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Shoe Cover Dispenser": {
+        "children": {
+          "Denture Base Material": {
+            "children": {
+              "Heat Cure": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Suction Units": {
+        "children": {
+          "Impression Material": {
+            "children": {
+              "Impression Compounds": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Ultrasonic Cleaners": {
+        "children": {
+          "Waxes": {
+            "children": {
+              "Casting Wax": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Ultrasonic Scalers": {
+        "children": {
+          "Amalgam": {
+            "children": {
+              "Amalgam Alloy Powder": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "UV Chamber": {
+        "children": {
+          "Cements": {
+            "children": {
+              "Luting": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Waldent Airotors & Cartridges": {
+        "children": {
+          "Composite": {
+            "children": {
+              "Composite Kits": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Waldent Compressors": {
+        "children": {
+          "Dental Burs": {
+            "children": {
+              "Diamond": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Water Distiller": {
+        "children": {
+          "Surface Disinfectants": {
+            "children": {
+              "Disinfectant Sprays": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Water Flosser": {
+        "children": {
+          "ESSENTIALS": {
+            "children": {
+              "Diagnostics": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Wax Heater": {
+        "children": {
+          "Bleaching Products": {
+            "children": {
+              "At Home Bleaching": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Wax Knife Heater": {
+        "children": {
+          "Cavity Access": {
+            "children": {
+              "Gates Glidden": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "X Ray Machines": {
+        "children": {
+          "Cleaning and Shaping": {
+            "children": {
+              "RT Files": {
+                "children": {}
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "General Dentistry": {
+    "children": {
+      "Alginate Scoop & Jar": {
+        "children": {
+          "Endo Accessories": {
+            "children": {
+              "File Holder": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Base Formers": {
+        "children": {
+          "Obturation": {
+            "children": {
+              "Paper Points": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Bur Boxes": {
+        "children": {
+          "Post & Core": {
+            "children": {
+              "Core build up materials": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Cheek Retractors": {
+        "children": {
+          "Re treatment": {
+            "children": {
+              "Re treatment Files": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Cotton Holders": {
+        "children": {
+          "Autoclaves": {
+            "children": {
+              "Top Loading Autoclaves": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Cotton Roll Dispensers": {
+        "children": {
+          "Dental Chairs": {
+            "children": {
+              "Fully Electric Dental chair": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Dappen Dish": {
+        "children": {
+          "Dental Handpieces": {
+            "children": {
+              "Straight": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Dental Apron": {
+        "children": {
+          "Suction Units": {
+            "children": {
+              "Suction Unit\u00a0Accessories": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Dental Gifts": {
+        "children": {
+          "Ultrasonic Cleaners": {
+            "children": {
+              "Non Fiberoptic Scaler": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Dental x ray": {
+        "children": {
+          "X Ray Machines": {
+            "children": {
+              "Wall Mount": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Denture Boxes": {
+        "children": {
+          "Alginate Scoop & Jar": {
+            "children": {
+              "Mouth Masks & Head Caps": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Dispenser Gun & Mixing tips": {
+        "children": {
+          "Dental x ray": {
+            "children": {
+              "X Ray Film holders": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Disposables": {
+        "children": {
+          "Personal protection": {
+            "children": {
+              "Masks": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Glass Dispensers": {
+        "children": {
+          "Tooth Care": {
+            "children": {
+              "Tooth Pastes": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Hand Mirror": {
+        "children": {
+          "Implant Instruments": {
+            "children": {
+              "Sinus lift instruments": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Hand Piece Oil Spray": {
+        "children": {
+          "Prosthetics": {
+            "children": {
+              "Healing Screw": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Irrigation Tubes": {
+        "children": {
+          "Diagnostic": {
+            "children": {
+              "Mirrors": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Jaw Sets": {
+        "children": {
+          "Endodontic": {
+            "children": {
+              "RCT spreaders": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Kidney Tray": {
+        "children": {
+          "Extraction Instruments": {
+            "children": {
+              "Root Elevators": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Mixing Bowls & Spatulas": {
+        "children": {
+          "Filling Instruments": {
+            "children": {
+              "Spoon excavator": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Mixing Pads": {
+        "children": {
+          "Orthodontic Instruments": {
+            "children": {
+              "Arch Forming Turret": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Model Formers": {
+        "children": {
+          "Prosthodontic": {
+            "children": {
+              "Spatulas": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Patient Drapes": {
+        "children": {
+          "Surgical Instruments": {
+            "children": {
+              "Hemostats": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Personal protection": {
+        "children": {
+          "Ceramics": {
+            "children": {
+              "Ceramic Blocks": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Photographic Mirrors & Contrastors": {
+        "children": {
+          "Adhesives": {
+            "children": {
+              "Light Cure Adhesive": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Plastic Trays": {
+        "children": {
+          "Bondable Accessories": {
+            "children": {
+              "Bondable Lingual Sheaths": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Plastic X Ray Film Holders": {
+        "children": {
+          "Brackets": {
+            "children": {
+              "Lingual": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Pmt Set": {
+        "children": {
+          "Buccal Tubes": {
+            "children": {
+              "Weldable": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Protective Eyewear": {
+        "children": {
+          "Dental Wires & Springs": {
+            "children": {
+              "Ni Ti Wires": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Scrubs": {
+        "children": {
+          "Educational Material": {
+            "children": {
+              "Study Models": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Sedation Unit & Accessories": {
+        "children": {
+          "Elastomerics": {
+            "children": {
+              "Elastics": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Spirit Lamp": {
+        "children": {
+          "Expansion Screws": {
+            "children": {
+              "Standard Screws": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Tissue Dispenser": {
+        "children": {
+          "Laboratory Products": {
+            "children": {
+              "Spot Welder": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Tooth Care": {
+        "children": {
+          "Weldable Accessories": {
+            "children": {
+              "Lingual Sheath": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Tooth Jewellery": {
+        "children": {
+          "Fluorides": {
+            "children": {
+              "Fluoride Varnishes": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Typodonts": {
+        "children": {
+          "Local Anesthesia": {
+            "children": {
+              "Local Anaesthetic Cartridges": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Utility Trays": {
+        "children": {
+          "Bite Registration": {
+            "children": {
+              "High Spot Indicator": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "veneer box": {
+        "children": {
+          "Denture Base Material": {
+            "children": {
+              "Cold Cure": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "X Ray Film Hanger": {
+        "children": {
+          "Impression Material": {
+            "children": {
+              "Alginate Powder": {
+                "children": {}
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Implantology": {
+    "children": {
+      "Bone Grafts": {
+        "children": {
+          "Waxes": {
+            "children": {
+              "Wax Blocks": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Hex Drivers": {
+        "children": {
+          "Amalgam": {
+            "children": {
+              "Amalgam Capsules": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Implant Drill Stoppers": {
+        "children": {
+          "Cements": {
+            "children": {
+              "Liners & Bases": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Implant Drills": {
+        "children": {
+          "Composite": {
+            "children": {
+              "Packable": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Implant Instruments": {
+        "children": {
+          "Dental Burs": {
+            "children": {
+              "Carbide": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Implant Luting Cements": {
+        "children": {
+          "Finishing & Polishing": {
+            "children": {
+              "Finishing Burs": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Implant Surgical Kits": {
+        "children": {
+          "Surface Disinfectants": {
+            "children": {
+              "Disinfectant Wipes": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Implants": {
+        "children": {
+          "ESSENTIALS": {
+            "children": {
+              "Gloves": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Prosthetics": {
+        "children": {
+          "Bleaching Products": {
+            "children": {
+              "Gingival Barrier": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Ridge Augmentation Instruments": {
+        "children": {
+          "Cavity Access": {
+            "children": {
+              "Peeso Reamers": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Sutures": {
+        "children": {
+          "Cleaning and Shaping": {
+            "children": {
+              "H Files": {
+                "children": {}
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Instruments": {
+    "children": {
+      "Diagnostic": {
+        "children": {
+          "Endo Accessories": {
+            "children": {
+              "Endo Boxes": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Extraction Instruments": {
+        "children": {
+          "Obturation": {
+            "children": {
+              "Lentulo Spirals": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Filling Instruments": {
+        "children": {
+          "Re treatment": {
+            "children": {
+              "Cement Solvent": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Handpiece Stand": {
+        "children": {
+          "Dental Chairs": {
+            "children": {
+              "Portable Dental Unit": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Instrument Kit": {
+        "children": {
+          "Dental Handpieces": {
+            "children": {
+              "Contra Angle Handpieces": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Instrument Management System": {
+        "children": {
+          "Suction Units": {
+            "children": {
+              "Portable Suction Units": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Orthodontic Instruments": {
+        "children": {
+          "Dental x ray": {
+            "children": {
+              "Developer Fixer": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Periodontal": {
+        "children": {
+          "Personal protection": {
+            "children": {
+              "gloves": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Prosthodontic": {
+        "children": {
+          "Tooth Care": {
+            "children": {
+              "Mouthwashes": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "T Burnisher": {
+        "children": {
+          "Prosthetics": {
+            "children": {
+              "Impression Coping": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Endodontic": {
+        "children": {
+          "Cleaning and Shaping": {
+            "children": {
+              "SuperEndo Rotary Files": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Surgical Instruments": {
+        "children": {
+          "Orthodontic Instruments": {
+            "children": {
+              "Ligature Tucker": {
+                "children": {}
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Laboratory": {
+    "children": {
+      "3D Printers and Resin Materials": {
+        "children": {
+          "Diagnostic": {
+            "children": {
+              "Tweezers": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Brushes": {
+        "children": {
+          "Endodontic": {
+            "children": {
+              "MTA Carrier": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "CAD CAM": {
+        "children": {
+          "Extraction Instruments": {
+            "children": {
+              "Periosteal Elevators": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Casting Furnaces": {
+        "children": {
+          "Filling Instruments": {
+            "children": {
+              "Condensors": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Ceramics": {
+        "children": {
+          "Orthodontic Instruments": {
+            "children": {
+              "Band Cutting Scissors": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Dental": {
+        "children": {
+          "Prosthodontic": {
+            "children": {
+              "Cord packer": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Denture Material": {
+        "children": {
+          "Surgical Instruments": {
+            "children": {
+              "Needle Holders": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Disc Articulators": {
+        "children": {
+          "Adhesives": {
+            "children": {
+              "Band Cements": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Gas Burner": {
+        "children": {
+          "Bands": {
+            "children": {
+              "Bands Without Tube": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Gingival Masks": {
+        "children": {
+          "Brackets": {
+            "children": {
+              "Metal": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Investment Materials": {
+        "children": {
+          "Elastomerics": {
+            "children": {
+              "Separators": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Lab Accessories": {
+        "children": {
+          "Laboratory Products": {
+            "children": {
+              "Articulators": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Lab Instruments": {
+        "children": {
+          "Pedo Crowns": {
+            "children": {
+              "Zirconia Crowns": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Lathe Machine": {
+        "children": {
+          "Bite Registration": {
+            "children": {
+              "Alu Wax": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Metal": {
+        "children": {
+          "Denture Base Material": {
+            "children": {
+              "Cold Mould Seal": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Milling Tools": {
+        "children": {
+          "Impression Material": {
+            "children": {
+              "Impression Paste": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Plaster Cutter": {
+        "children": {
+          "Waxes": {
+            "children": {
+              "Spacer Wax": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Thermoforming Sheets": {
+        "children": {
+          "Amalgam": {
+            "children": {
+              "Dental Mercury": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Trays & Material": {
+        "children": {
+          "Bonds Etchants": {
+            "children": {
+              "Etchant": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Waxes": {
+        "children": {
+          "Cements": {
+            "children": {
+              "Pit & Fissure": {
+                "children": {}
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Medical Supplies": {
+    "children": {
+      "Bio hazard waste container": {
+        "children": {
+          "Composite": {
+            "children": {
+              "Flowable": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Oxygen Cans And Cylinders": {
+        "children": {
+          "Dental Burs": {
+            "children": {
+              "Superendo Bur Kits": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Oxygen Concentrator": {
+        "children": {
+          "ESSENTIALS": {
+            "children": {
+              "Mouth Masks": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Thermometers": {
+        "children": {
+          "Miscellaneous": {
+            "children": {
+              "Pedodontics": {
+                "children": {}
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "New Clinic setup Kits": {
+    "children": {
+      "Conservative": {
+        "children": {
+          "Bleaching Products": {
+            "children": {
+              "Block Out Resins": {
+                "children": {}
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Offer Zone": {
+    "children": {
+      "Clearance Sale": {
+        "children": {
+          "Cavity Access": {
+            "children": {
+              "Pulp Devitalizer": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Combos": {
+        "children": {
+          "Cleaning and Shaping": {
+            "children": {
+              "Flexile Files": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Freebies": {
+        "children": {
+          "Endo Accessories": {
+            "children": {
+              "Endo Scales": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Half Price": {
+        "children": {
+          "Obturation": {
+            "children": {
+              "Root Canal Sealers": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Hot Selling": {
+        "children": {
+          "Re treatment": {
+            "children": {
+              "File Retrieval System": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Near Expiry": {
+        "children": {
+          "Dental Chairs": {
+            "children": {
+              "Dental Stools": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "New Arrivals": {
+        "children": {
+          "Dental Handpieces": {
+            "children": {
+              "Implant Handpieces": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Under 199": {
+        "children": {
+          "Suction Units": {
+            "children": {
+              "Extra Oral Suctions": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Under 1999": {
+        "children": {
+          "Dental x ray": {
+            "children": {
+              "RVG Sensors & Positioners": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Under 299": {
+        "children": {
+          "Personal protection": {
+            "children": {
+              "Headcaps": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Under 499": {
+        "children": {
+          "Tooth Care": {
+            "children": {
+              "Floss": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Under 99": {
+        "children": {
+          "Implant Instruments": {
+            "children": {
+              "Bone Injector & collector": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Under 999": {
+        "children": {
+          "Diagnostic": {
+            "children": {
+              "PMT Set": {
+                "children": {}
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Oral Surgery": {
+    "children": {
+      "Anaesthetics": {
+        "children": {
+          "Extraction Instruments": {
+            "children": {
+              "Bone Rongeurs": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Archbar": {
+        "children": {
+          "Filling Instruments": {
+            "children": {
+              "Plastic Filling instruments": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Bones grafts and Membrane": {
+        "children": {
+          "Orthodontic Instruments": {
+            "children": {
+              "Banding": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Extraction Instruments": {
+        "children": {
+          "Prosthodontic": {
+            "children": {
+              "ARTICULATORS": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Haemostats": {
+        "children": {
+          "Surgical Instruments": {
+            "children": {
+              "Surgical Retractors": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Mini Bone Plates & Screws": {
+        "children": {
+          "Adhesives": {
+            "children": {
+              "Accessories": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Mouths gags": {
+        "children": {
+          "Brackets": {
+            "children": {
+              "Self Ligating": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Surgical Burs": {
+        "children": {
+          "Elastomerics": {
+            "children": {
+              "Ligature Ties": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Surgical Dressings": {
+        "children": {
+          "Laboratory Products": {
+            "children": {
+              "Fixator": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Sutures & Needles": {
+        "children": {
+          "Impression Material": {
+            "children": {
+              "Green Stick": {
+                "children": {}
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Orthodontics": {
+    "children": {
+      "Adhesives": {
+        "children": {
+          "Waxes": {
+            "children": {
+              "Beading & Boxing Wax": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Bands": {
+        "children": {
+          "Composite": {
+            "children": {
+              "Bulk Fill": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Bondable Accessories": {
+        "children": {
+          "Dental Burs": {
+            "children": {
+              "Bur Adapter": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Brackets": {
+        "children": {
+          "ESSENTIALS": {
+            "children": {
+              "Mackintosh sheet": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Buccal Tubes": {
+        "children": {
+          "Miscellaneous": {
+            "children": {
+              "Periodontics": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Clear Aligner": {
+        "children": {
+          "Cleaning and Shaping": {
+            "children": {
+              "D Finders": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Dental Wires & Springs": {
+        "children": {
+          "Endo Accessories": {
+            "children": {
+              "Instrument Removal System": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Educational Material": {
+        "children": {
+          "Obturation": {
+            "children": {
+              "MTA & Biodentin": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Elastomerics": {
+        "children": {
+          "Ultrasonic Cleaners": {
+            "children": {
+              "Scaler Accessories": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Expansion Screws": {
+        "children": {
+          "Personal protection": {
+            "children": {
+              "Goggles": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "IntraOral & ExtraOral Appliances": {
+        "children": {
+          "Tooth Care": {
+            "children": {
+              "Interdental Brushes": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Laboratory Products": {
+        "children": {
+          "Implant Instruments": {
+            "children": {
+              "Bone compactor & Carrier": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Mini Screws": {
+        "children": {
+          "Diagnostic": {
+            "children": {
+              "Mouth Mirror Handle": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Misc Products": {
+        "children": {
+          "Extraction Instruments": {
+            "children": {
+              "Moon's Probe": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Orthodontic Burs and Discs": {
+        "children": {
+          "Filling Instruments": {
+            "children": {
+              "Amalgam instruments": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Silicone Retainers": {
+        "children": {
+          "Orthodontic Instruments": {
+            "children": {
+              "Band Pusher": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Weldable Accessories": {
+        "children": {
+          "Prosthodontic": {
+            "children": {
+              "CROWN REMOVERS": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Orthodontic Instruments": {
+        "children": {
+          "Cleaning and Shaping": {
+            "children": {
+              "Reciprocating Files": {
+                "children": {}
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Paedodontics": {
+    "children": {
+      "Caries Detectors": {
+        "children": {
+          "Surgical Instruments": {
+            "children": {
+              "Syringes": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Cements": {
+        "children": {
+          "Brackets": {
+            "children": {
+              "Beggs": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Chemo mechanical Caries Removal": {
+        "children": {
+          "Elastomerics": {
+            "children": {
+              "Archwire Sleeves": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Fluorides": {
+        "children": {
+          "Laboratory Products": {
+            "children": {
+              "Model Bases": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Glass Ionomer Cements": {
+        "children": {
+          "Pedo Crowns": {
+            "children": {
+              "Bioflx Crowns": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Instruments": {
+        "children": {
+          "Impression Material": {
+            "children": {
+              "Rubber Base Material": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Luting Cements": {
+        "children": {
+          "Waxes": {
+            "children": {
+              "Sticky Wax": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Pedo Crowns": {
+        "children": {
+          "Cements": {
+            "children": {
+              "Miracle Mix": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Pit & Fissure Sealants": {
+        "children": {
+          "Composite": {
+            "children": {
+              "Luting": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Pulp Therapy": {
+        "children": {
+          "Finishing & Polishing": {
+            "children": {
+              "Articulating Paper": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Space Maintainer": {
+        "children": {
+          "ESSENTIALS": {
+            "children": {
+              "Sterilization Pouches": {
+                "children": {}
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Patient Education Models": {
+    "children": {
+      "Human Anatomy": {
+        "children": {
+          "Miscellaneous": {
+            "children": {
+              "Dental Anatomy & Dental Histology": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Implant Models": {
+        "children": {
+          "Endo Accessories": {
+            "children": {
+              "Endomotor Batteries": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Manuals & Posters": {
+        "children": {
+          "Obturation": {
+            "children": {
+              "Pluggers & Spreaders": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Mouthwashes": {
+        "children": {
+          "Dental Handpieces": {
+            "children": {
+              "Airotor Cartridge": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Orthodontic Models": {
+        "children": {
+          "Dental x ray": {
+            "children": {
+              "X  Ray Viewer": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Paediatric Models": {
+        "children": {
+          "Personal protection": {
+            "children": {
+              "Face shields": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Practicing Models": {
+        "children": {
+          "Tooth Care": {
+            "children": {
+              "Denture Care": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Prosthodontic": {
+        "children": {
+          "Implant Instruments": {
+            "children": {
+              "Membrane placement": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Root canal": {
+        "children": {
+          "Diagnostic": {
+            "children": {
+              "Explorer": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Tooth Disease": {
+        "children": {
+          "Filling Instruments": {
+            "children": {
+              "Matrix Retainers": {
+                "children": {}
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Periodontics": {
+    "children": {
+      "Bone Grafts and Membranes": {
+        "children": {
+          "Orthodontic Instruments": {
+            "children": {
+              "Bracket Positioning Guage": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Gum Astringent": {
+        "children": {
+          "Prosthodontic": {
+            "children": {
+              "ARTICULATING PAPER FORCEPS": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Instruments": {
+        "children": {
+          "Surgical Instruments": {
+            "children": {
+              "Microsurgery": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Others": {
+        "children": {
+          "Brackets": {
+            "children": {
+              "Sapphire": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Perio Splints": {
+        "children": {
+          "Laboratory Products": {
+            "children": {
+              "Orthodontic Acrylics": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Periodontal Dressings": {
+        "children": {
+          "Impression Material": {
+            "children": {
+              "Tray Adhesive": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Plaque Disclosing Agents": {
+        "children": {
+          "Waxes": {
+            "children": {
+              "Modelling Wax": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Polishing Pastes": {
+        "children": {
+          "Cements": {
+            "children": {
+              "Temporary Luting Cements": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Polishing Powder": {
+        "children": {
+          "Composite": {
+            "children": {
+              "Gingival Colored": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Prophy Cups & Brushes": {
+        "children": {
+          "ESSENTIALS": {
+            "children": {
+              "Cotton Products": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Surgical Dressings": {
+        "children": {
+          "Miscellaneous": {
+            "children": {
+              "Oral Medicine & Radiology": {
+                "children": {}
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Pharmacy": {
+    "children": {
+      "Analgesics": {
+        "children": {
+          "Endo Accessories": {
+            "children": {
+              "Endo Aspirators": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Antacids": {
+        "children": {
+          "Obturation": {
+            "children": {
+              "Obturation system": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Anti Allergic": {
+        "children": {
+          "Dental Handpieces": {
+            "children": {
+              "Contra Angle Cartridges": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Antibiotics": {
+        "children": {
+          "Dental x ray": {
+            "children": {
+              "X Ray Film Mounts": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Anti fibrinolytic": {
+        "children": {
+          "Personal protection": {
+            "children": {
+              "Shoe Covers": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Antifungal": {
+        "children": {
+          "Implant Instruments": {
+            "children": {
+              "Bony tunnel Gauge": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Antiseptic": {
+        "children": {
+          "Filling Instruments": {
+            "children": {
+              "Capsule Applier": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Antiviral": {
+        "children": {
+          "Orthodontic Instruments": {
+            "children": {
+              "Bracket Tweezers": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Corticosteroids": {
+        "children": {
+          "Prosthodontic": {
+            "children": {
+              "PUTTY CUTTING KNIFE": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Local Anesthesia": {
+        "children": {
+          "Surgical Instruments": {
+            "children": {
+              "Suction Tips": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Nasal Drops": {
+        "children": {
+          "Brackets": {
+            "children": {
+              "Polycarbonate": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Proton pump inhibitors": {
+        "children": {
+          "Laboratory Products": {
+            "children": {
+              "Silver Solder": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Vitamins & Supplements": {
+        "children": {
+          "Impression Material": {
+            "children": {
+              "Custom Tray Material": {
+                "children": {}
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Prosthodontics": {
+    "children": {
+      "Adhesive Tip Applicators": {
+        "children": {
+          "Cements": {
+            "children": {
+              "Giomers": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Bite Registration": {
+        "children": {
+          "Composite": {
+            "children": {
+              "Composite Organizers": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Blocking Out Putty": {
+        "children": {
+          "ESSENTIALS": {
+            "children": {
+              "Green Cloth": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Ceramics": {
+        "children": {
+          "Miscellaneous": {
+            "children": {
+              "Oral Surgery": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Crown Preparation Burs & Kits": {
+        "children": {
+          "Cleaning and Shaping": {
+            "children": {
+              "Protaper Hand Files": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Crown Removers": {
+        "children": {
+          "Endo Accessories": {
+            "children": {
+              "K Flex Files": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Denture Base Material": {
+        "children": {
+          "Dental Handpieces": {
+            "children": {
+              "Endomotor Contra Angles": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Denture Relining Materials": {
+        "children": {
+          "Personal protection": {
+            "children": {
+              "Hand sanitizers": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Denture Trimming Burs": {
+        "children": {
+          "Filling Instruments": {
+            "children": {
+              "Ball Burnisher": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Facebow": {
+        "children": {
+          "Orthodontic Instruments": {
+            "children": {
+              "Crimpable Hook Plier": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Finishing & Polishing Materials": {
+        "children": {
+          "Prosthodontic": {
+            "children": {
+              "WAX CALIPERS": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Gingival Retraction Material": {
+        "children": {
+          "Surgical Instruments": {
+            "children": {
+              "Bristow Elevators": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Impression Material": {
+        "children": {
+          "Dental Wires & Springs": {
+            "children": {
+              "Mini Springs": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Impression Trays": {
+        "children": {
+          "Cements": {
+            "children": {
+              "Resin Cements": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Laminate & Veneer Preparation Kit": {
+        "children": {
+          "Composite": {
+            "children": {
+              "Composite Template": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Shade Guides": {
+        "children": {
+          "Finishing & Polishing": {
+            "children": {
+              "Finishing & Polishing Discs": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Teeth Sets": {
+        "children": {
+          "ESSENTIALS": {
+            "children": {
+              "Metallic Scale": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Temporary Crown Materials": {
+        "children": {
+          "Personal protection": {
+            "children": {
+              "Gowns": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Waxes": {
+        "children": {
+          "Filling Instruments": {
+            "children": {
+              "Dycal Applicator": {
+                "children": {}
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Restorative": {
+    "children": {
+      "Amalgam": {
+        "children": {
+          "Orthodontic Instruments": {
+            "children": {
+              "Debanding": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Bonds Etchants": {
+        "children": {
+          "Prosthodontic": {
+            "children": {
+              "WAX KNIFE": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Cavity Liners": {
+        "children": {
+          "Surgical Instruments": {
+            "children": {
+              "TISSUE FORCEPS": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Cements": {
+        "children": {
+          "Cements": {
+            "children": {
+              "Zinc Phosphate Cement": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Compomers": {
+        "children": {
+          "Finishing & Polishing": {
+            "children": {
+              "Composite Silicon Brush": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Composite": {
+        "children": {
+          "ESSENTIALS": {
+            "children": {
+              "Patient Drapes": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Dental Burs": {
+        "children": {
+          "Miscellaneous": {
+            "children": {
+              "Preventive and Community Dentistry": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Desensitizers": {
+        "children": {
+          "Cleaning and Shaping": {
+            "children": {
+              "C+ Files": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Endo Posts & Drills": {
+        "children": {
+          "Orthodontic Instruments": {
+            "children": {
+              "Debonding": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Finishing & Polishing": {
+        "children": {
+          "Prosthodontic": {
+            "children": {
+              "CHIP BLOWER": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Primers": {
+        "children": {
+          "Surgical Instruments": {
+            "children": {
+              "SCALPEL HANDLES": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Retainers & Matrix Bands": {
+        "children": {
+          "Cements": {
+            "children": {
+              "Zinc Polycarboxylate Cement": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Retention Pins & Drills": {
+        "children": {
+          "ESSENTIALS": {
+            "children": {
+              "Glass Slab": {
+                "children": {}
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Spare Parts": {
+    "children": {
+      "Apex Locator Spare Parts": {
+        "children": {
+          "Cleaning and Shaping": {
+            "children": {
+              "Path Files": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Autoclave Spare Parts": {
+        "children": {
+          "Orthodontic Instruments": {
+            "children": {
+              "De La Rosa": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Dental Chair Spare Parts": {
+        "children": {
+          "Surgical Instruments": {
+            "children": {
+              "BONE CHISEL & MALLETS": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Ultrasonic Scaler Spare Parts": {
+        "children": {
+          "ESSENTIALS": {
+            "children": {
+              "Suction Tips": {
+                "children": {}
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Sterilization": {
+    "children": {
+      "Dressing Drums": {
+        "children": {
+          "Orthodontic Instruments": {
+            "children": {
+              "Distal End Cutter": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Hand Hygiene": {
+        "children": {
+          "Surgical Instruments": {
+            "children": {
+              "SCALPEL BLADE REMOVER": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Handpiece Sterilization": {
+        "children": {
+          "Dental Wires & Springs": {
+            "children": {
+              "Cu NiTi Archwires": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Instrument Sterilization": {
+        "children": {
+          "Cleaning and Shaping": {
+            "children": {
+              "Chelating Agents": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Sterilization Cassette": {
+        "children": {
+          "Orthodontic Instruments": {
+            "children": {
+              "Elastic Ligature Applicator": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Sterilization Indicators": {
+        "children": {
+          "Surgical Instruments": {
+            "children": {
+              "DRESSING & STERILIZING FORCEPS": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Sterilization Reels & Pouches": {
+        "children": {
+          "Cleaning and Shaping": {
+            "children": {
+              "Irrigation Needles": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Suction Unit Cleaners": {
+        "children": {
+          "Orthodontic Instruments": {
+            "children": {
+              "Hard Wire Cutter": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Surface Disinfectants": {
+        "children": {
+          "Surgical Instruments": {
+            "children": {
+              "SUTURE FORCEPS": {
+                "children": {}
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Student Section": {
+    "children": {
+      "1st Year BDS": {
+        "children": {
+          "Cleaning and Shaping": {
+            "children": {
+              "Irrigation solutions": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "2nd Year BDS": {
+        "children": {
+          "Orthodontic Instruments": {
+            "children": {
+              "Heavy Wire Cutter": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "3rd Year BDS": {
+        "children": {
+          "Surgical Instruments": {
+            "children": {
+              "SURGICAL CURRETES": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "4th Year BDS": {
+        "children": {
+          "Orthodontic Instruments": {
+            "children": {
+              "How Style Plier": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "BOOKS": {
+        "children": {
+          "Surgical Instruments": {
+            "children": {
+              "SCREW DRIVERS": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "ESSENTIALS": {
+        "children": {
+          "Cleaning and Shaping": {
+            "children": {
+              "NiTi K Files": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Materials": {
+        "children": {
+          "Orthodontic Instruments": {
+            "children": {
+              "Ligature Wire Cutter": {
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Miscellaneous": {
+        "children": {
+          "Orthodontic Instruments": {
+            "children": {
+              "Ligature Tying Plier": {
+                "children": {}
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Cleaning and Shaping": {
+    "children": {
+      "K Flex Files": {
+        "children": {}
+      }
+    }
+  },
+  "Orthodontic Instruments": {
+    "children": {
+      "Light Wire & Bird Beak Plier": {
+        "children": {}
+      }
+    }
+  }
+}
